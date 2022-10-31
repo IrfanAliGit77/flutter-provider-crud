@@ -1,8 +1,8 @@
-class ValidationItem {
+class Validation {
   final String? value;
   final String? error;
 
-  ValidationItem(
+  Validation(
     this.value,
     this.error,
   );
